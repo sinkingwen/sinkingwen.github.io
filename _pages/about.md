@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Jingwen Zhu, a member of the CCF, is currently an Experimentalist at the College of Software, Nankai University. My research interests include software engineering, datacenter networks, and experimental teaching. Over the past five years, I have been involved in the General Project of the Tianjin Natural Science Foundation and the Science and Technology Project of the State Grid Corporation Headquarters. Moreover, I have led a project under the Ministry of Education’s Industry-University Cooperation in Collaborative Education. I have also presided over two teaching reform projects and one experimental teaching reform project at Nankai University, and published two papers on teaching reform.
 
 # 📖 Educations
 
@@ -33,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
-“#” means corresponding author.
+"#" means corresponding author.
 
 - 软件工程专业 C/C++程序设计实验教学模式探索[J], **朱静雯**, 谢茂强, 张圣林. 计算机教育,
 - 面向新工科的数据结构实验教学研究与改革[J], **朱静雯**, 刘明铭, 谢茂强, 沈舒尹, 李博学. 实验室科学,
@@ -47,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 - A Novel Memory Leak Classification for Evaluating the Applicability of Static Analysis Tools. Sen Zhang, **Jingwen Zhu#**, Ao Liu, Weijing Wang, Chenkai Guo, Jing Xu. PIC 2018. [[pdf]](https://ieeexplore.ieee.org/document/8706142)
 - Marine fishing ground prediction based on Bayesian decision tree model. **Jingwen Zhu**, Jing Xu, Chao Zhang, Ya Gao. ICMSS 17, p316-320. [[pdf]](https://dl.acm.org/doi/10.1145/3034950.3034985)
 
-# 🛠️ Projects
+# 📝 Projects
 
 - 教育部产学合作协同育人项目, 2023.12—2024.12, 项目负责人.
 - 南开大学本科生教育教学改革项目, 2024.3—2025.3, 项目负责人.
@@ -63,6 +61,8 @@ My research interest includes neural machine translation and computer vision. I 
 - 2022 年南开大学教学成果奖二等奖, 3/10.
 - 2021 年南开大学师生同行暑期社会实践活动优秀指导教师.
 - 2019 年中国产学研合作创新成果三等奖, 10/10.
+- 指导学生参加 2022 年全国大学生物联网设计竞赛（华为杯）全国总决赛获一等奖.
+- 指导学生参加 2022 年“挑战杯”中国银行天津市大学生创业计划竞赛获金奖.
 
 # 💬 Academic Services
 
