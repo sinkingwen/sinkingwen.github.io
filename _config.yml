@@ -21,11 +21,11 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-  name: "Jingwen Zhu(朱静雯)"
+  name: "Jingwen Zhu（朱静雯）"
   avatar: "images/android-chrome-192x192.png"
   bio: "Nankai University"
   location: "Tianjin, China"
-  employer: Nankai University
+  employer: # "Nankai University"
   pubmed:
   googlescholar: # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email: "zhujingwen@nankai.edu.cn"
