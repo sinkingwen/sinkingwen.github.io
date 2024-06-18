@@ -58,6 +58,7 @@ Jingwen Zhu, a member of the CCF, is currently an Experimentalist at the College
 # 🎖 Honors and Awards
 
 - 2023 年国网天津市电力公司科学技术进步二等奖.
+- 第八届中国国际“互联网+”大学生创新创业大赛天津赛区比赛高教主赛道“优秀创新创业导师”.
 - 2022 年南开大学教学成果奖二等奖, 3/10.
 - 2021 年南开大学师生同行暑期社会实践活动优秀指导教师.
 - 2019 年中国产学研合作创新成果三等奖, 10/10.
