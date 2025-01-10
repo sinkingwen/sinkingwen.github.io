@@ -34,7 +34,7 @@ Jingwen Zhu, a member of the CCF, is currently an Experimentalist at the College
 "#" means corresponding author.
 
 - 软件工程专业 C/C++程序设计实验教学模式探索[J], **朱静雯**, 谢茂强, 张圣林. 计算机教育,2024,(08):208-212.DOI:10.16512/j.cnki.jsjjy.2024.08.056.
-- 面向新工科的数据结构实验教学研究与改革[J], **朱静雯**, 刘明铭, 谢茂强, 沈舒尹, 李博学. 实验室科学,
+- 面向新工科的数据结构实验教学研究与改革[J], **朱静雯**, 刘明铭, 谢茂强, 沈舒尹, 李博学. 实验室科学,2024,27(04):230-234.
 - 基于隐马尔可夫模型的 SQL 注入攻击行为检测[J], **朱静雯**, 许静, 陈亮, 李洁. 计算机应用与软件,2023,40(02):331-338+344.
 - 面向电力信息系统日志数据的注入攻击特征提取方法[J]. 殷博, **朱静雯**, 刘磊, 许静. 计算机应用与软件,2021,38(03):319-326.
 - CCSS: An Effective Object Detection System for Classroom Crowd Statistics. Kang Yi, Siyu Yan, Lei Liu, **Jingwen Zhu**, Weiyun Liang, Jing Xu. COMPSAC 2022: 111-116. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9842734)
@@ -52,6 +52,7 @@ Jingwen Zhu, a member of the CCF, is currently an Experimentalist at the College
 - 天津市自然科学基金面上项目, 2023.10—2026.09, 参与人.
 - 南开大学本科生实验教学改革项目, 2022.6—2023.10, 项目负责人.
 - 天津市自然科学基金面上项目, 2022.01—2023.12, 参与人.
+- 天津市科技计划项目, 2021.10-2024.09, 参与人.
 - 南开大学本科生教育教学改革项目, 2021.3—2022.3, 项目负责人.
 - 国家电网公司总部科技项目, 2019.1—2020.12, 参与人.
 
